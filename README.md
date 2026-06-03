@@ -3,7 +3,7 @@ System do wyświetlania lokalnego rankingu konkursów typu Náboj, zvibecodowany
 ## Wymagania:
 - [Python](https://www.python.org/downloads/) `3.10` bądź nowszy. Rekomendowany `3.12` bądź wyżej
 - Przeglądarka internetowa
-- git (do instalacji, opcjonalne)
+- git (do instalacji opcją 1, opcjonalne)
 ## Instalacja:
 ### Opcja 1:
 W katalogu w którym chcesz trzymać system odpal `gh clone https://github.com/sgozdal/local-bullet`. Powstanie katalog `local-bullet`.
