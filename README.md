@@ -1,5 +1,5 @@
 # Local bullet
-System do wyświetlania lokalnego rankingu konkursów typu Náboj, zvibecodowany na potrzeby szkolnego konkursu. Nazwa i pomysł pochodzą od oficjalnego nábojowego systemu [bullet](https://github.com/naboj-org/bullet), ale kod ma z nim mało wspólnego.
+System do wyświetlania lokalnego rankingu konkursów typu Náboj, zvibecodowany na potrzeby szkolnego konkursu. Nazwa pochodzi od oficjalnego nábojowego systemu [bullet](https://github.com/naboj-org/bullet), ale kod ma z nim mało wspólnego.
 ## Wymagania:
 - [Python](https://www.python.org/downloads/) `3.10` bądź nowszy. Rekomendowany `3.12` bądź wyżej
 - Przeglądarka internetowa
