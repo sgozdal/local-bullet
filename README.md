@@ -6,7 +6,7 @@ System do wyświetlania lokalnego rankingu konkursów typu Náboj, zvibecodowany
 - git (do instalacji opcją 1, opcjonalne)
 ## Instalacja:
 ### Opcja 1:
-W katalogu w którym chcesz trzymać system odpal `gh clone https://github.com/sgozdal/local-bullet`. Powstanie katalog `local-bullet`.
+W katalogu w którym chcesz trzymać system odpal `git clone https://github.com/sgozdal/local-bullet`. Powstanie katalog `local-bullet`.
 ### Opcja 2:
 Skopiuj plik `local_bullet.py` z githuba do `cokolwiek.py` na swoim komputerze, całość jest używalna jako jeden plik. 
 ## Odpalanie
